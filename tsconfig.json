@@ -15,10 +15,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "target": "es6",
-    "sourceMap": true,
-    "lib": [
-      "es6"
-    ]
+    "sourceMap": true
   },
   "exclude": [
     "node_modules",
