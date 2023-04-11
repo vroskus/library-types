@@ -1,7 +1,7 @@
 // Global Components
 import * as React from 'react';
 import type {
-  location,
+  Location,
 } from 'history';
 import type {
   match,
@@ -13,7 +13,7 @@ React.PropsWithChildren<P>
 >;
 export type $Children = React.ReactNode;
 
-export type $Location = location;
+export type $Location = Location;
 export type $Match = match;
 export type $WebRouter = RouteComponentProps;
 export type $Translate = {
