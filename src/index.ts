@@ -1,5 +1,5 @@
 // Global Components
-import * as React from 'react';
+import type React from 'react';
 import type {
   Location,
 } from 'history';
